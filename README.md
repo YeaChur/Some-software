@@ -1,2 +1,2 @@
-# Some-software
-This is some for fun program
+# 一些小玩意
+原神自动弹琴（）
